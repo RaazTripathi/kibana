@@ -45,7 +45,7 @@ omitted will be automatically populated with query and filter services.
     "query": {
       "list": {
         "0": {
-          "query": "play_name:\"Romeo and Juliet\"",
+          "query": "play_name:\"Raaz and Rashmi\"",
           "alias": "",
           "color": "#7EB26D",
           "id": 0,
